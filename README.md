@@ -56,3 +56,7 @@ Use color name in xml files!
     <color name="accent" >@color/pink_accent_400</color>
 </resources>
 ```
+
+## Screenshot
+
+![some icons](https://raw.githubusercontent.com/fcannizzaro/material-colors/master/screen.png)
